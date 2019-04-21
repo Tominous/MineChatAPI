@@ -1,5 +1,5 @@
 package me.xmx.minechatapi;
 
 public enum PhoneType {
-	ANDROID, IPHONE
+	ANDROID, IPHONE, KINDLE, WINDOWS, AMAZON
 }
